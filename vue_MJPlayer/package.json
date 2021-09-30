@@ -1,23 +1,13 @@
 {
   "name": "vue-cli-plugin-player",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Wow, such a lovely VUE video player",
   "author": "miss_honly@163.com",
-  "main": "dist/index.js",
-  "scripts": {
-    "start": "npm install vue-cli-plugin-player -s",
-    "test": "npm run unit && npm run e2e",
-    "dev": "cross-env",
-    "build": "cross-env"
-  },
+  "main": "index.js",
   "resolutions": {
     "type": "git",
-    "url": "https://github.com/MingJie0920/MJPlayer"
+    "url": "git+https://github.com/MingJie0920/MJPlayer.git"
   },
-  "keywords": [
-    "vue-video",
-    "vue-video-player",
-    "vue-player"
-  ],
+  "homepage": "https://github.com/MingJie0920/MJPlayer",
   "license": "ISC"
 }
