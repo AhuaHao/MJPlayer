@@ -1,4 +1,7 @@
 # MJPlayer
-Wow, such a lovely VUE video player
+一款简单好用的播放插件
 
-init
+- [x] 1.基础播放功能   
+- [ ] 2.支持倍速 
+- [ ] 3.支持弹幕
+
